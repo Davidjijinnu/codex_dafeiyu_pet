@@ -1,0 +1,29 @@
+{
+  "name": "DeepSeek 大肥鱼 · 女仆装",
+  "description": "蓝发鲸鱼娘的 Codex / ChatGPT Pets v2 动画素材包",
+  "sprite_version": 2,
+  "file": "assets/spritesheet.png",
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "rows": 11,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "required_frames": 73,
+  "sha256": "4801b0070a05d28cf9e530a0294f867e5f8b58253a6a562c64b2cd0fcf8572b4",
+  "source_repository": "https://github.com/LIN428924379/baifanyu",
+  "artwork_terms": "See ARTWORK_NOTICE.md; excluded from code MIT license"
+}
