@@ -1,6 +1,6 @@
 # 发布到 GitHub
 
-目标仓库：[Davidjijinnu/codex-deepseek-maid-pet](https://github.com/Davidjijinnu/codex-deepseek-maid-pet)。
+目标仓库：[Davidjijinnu/codex_dafeiyu_pet](https://github.com/Davidjijinnu/codex_dafeiyu_pet)。
 
 ## 通过 GitHub 连接发布
 
@@ -8,10 +8,10 @@
 
 ## 自己使用 Git 发布
 
-先在 GitHub 创建名为 `codex-deepseek-maid-pet` 的公开仓库，保持为空，不勾选自动生成 README、LICENSE 或 .gitignore。然后在本项目目录执行：
+先在 GitHub 创建名为 `codex_dafeiyu_pet` 的公开仓库，保持为空，不勾选自动生成 README、LICENSE 或 .gitignore。然后在本项目目录执行：
 
 ```bash
-git remote add origin https://github.com/Davidjijinnu/codex-deepseek-maid-pet.git
+git remote add origin https://github.com/Davidjijinnu/codex_dafeiyu_pet.git
 git push -u origin main
 ```
 
